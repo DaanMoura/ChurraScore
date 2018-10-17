@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ChurraScore</string>
+    <string name="fut_time1">Time1</string>
+    <string name="fut_time2">Time2</string>
+    <string name="fut_placar1">0</string>
+    <string name="fut_placar2">0</string>
+    <string name="fut_vitorias1">Vitórias: 0</string>
+    <string name="fut_vitorias2">Vitórias: 0</string>
+    <string name="adicionar_gols">Adicionar gols:</string>
+    <string name="determinar_tempo">Determinar tempo:</string>
+    <string name="peb_time1">Time1</string>
+    <string name="peb_time2">Time2</string>
+    <string name="peb_placar1">0</string>
+    <string name="peb_placar2">0</string>
+    <string name="peb_vitorias1">Vitórias: 0</string>
+    <string name="peb_vitorias2">Vitórias: 0</string>
+    <string name="tru_time1">Time1</string>
+    <string name="tru_time2">Time2</string>
+    <string name="tru_placar1">0</string>
+    <string name="tru_placar2">0</string>
+    <string name="tru_vitorias1">Vitórias: 0</string>
+    <string name="tru_vitorias2">Vitórias: 0</string>
+    <string name="adicionar_pontos">Adicionar pontos:</string>
+    <string name="titleFutebol">Futebol</string>
+    <string name="titleTruco">Truco</string>
+    <string name="titlePebolim">Pebolim</string>
+</resources>
